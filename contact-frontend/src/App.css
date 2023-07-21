@@ -1,0 +1,30 @@
+#root {
+  margin: 0 auto;
+}
+
+#my-container {
+  height: 60vh;
+  width: 100%;
+}
+
+#header-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0;
+}
+
+#title-container {
+  padding: 12px 0;
+}
+
+#search-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 12px 0;
+}
+
+#search-bar {
+  width: 46vw;
+}
