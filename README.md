@@ -1,30 +1,18 @@
 # crud-rest-spring-react
 A full-stack contact app using Java Spring Boot and React.js
 
-## Getting Started with Create React App
+### Installation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. Clone this repo.
+2. Run `cd contact-frontend`.
+3. Run `yarn` to install all the dependencies.
+4. Run `yarn dev` to initiate to project.
+5. Go back to upper directory and and run `cd contactspring`
+6. Run the java project.
+7. You can test the API endpoints using an [extension](https://marketplace.visualstudio.com/items?itemName=rangav.vscode-thunder-client) in VS Code, 
 
-## Available Scripts
+### Resources
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
+1. [Vite](https://vitejs.dev/guide/)
+2. [Yarn](https://yarnpkg.com/getting-started/usage)
+3. [Spring Initializr](https://spring.io/guides)
