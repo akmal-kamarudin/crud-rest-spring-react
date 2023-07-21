@@ -15,4 +15,4 @@ A full-stack contact app using Java Spring Boot and React.js
 
 1. [Vite](https://vitejs.dev/guide/)
 2. [Yarn](https://yarnpkg.com/getting-started/usage)
-3. [Spring Initializr](https://spring.io/guides)
+3. [Spring Initializr](https://start.spring.io/)
